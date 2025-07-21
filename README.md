@@ -10,13 +10,13 @@ En esta era de la conectividad constante, las plataformas de streaming ofrecen u
 ## Objetivo
 
 
-# Objetivo general:  elaborar un sistema de recomendación tomando la calificación final de una película como indicador de aceptación por el público.
+Objetivo general:  elaborar un sistema de recomendación tomando la calificación final de una película como indicador de aceptación por el público.
 
 
-# Objetivo específico 1: analizar la aceptación de películas por protagonista, director, genero y país de origen según calificación promedio y una nueva variable, Porcentaje_likes.
+Objetivo específico 1: analizar la aceptación de películas por protagonista, director, genero y país de origen según calificación promedio y una nueva variable, Porcentaje_likes.
 
 
-# Objetivo específico 2: determinar si existe relación, y cómo se comporta, entre las variables vistas, duración y likes con la calificación final.
+Objetivo específico 2: determinar si existe relación, y cómo se comporta, entre las variables vistas, duración y likes con la calificación final.
 
 
 
