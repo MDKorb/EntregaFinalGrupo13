@@ -19,13 +19,6 @@ Objetivo específico 1: analizar la aceptación de películas por protagonista,
 Objetivo específico 2: determinar si existe relación, y cómo se comporta, entre las variables vistas, duración y likes con la calificación final.
 
 
-
-## Alumna
-
-
-Melisa Denisse Korb
-
-
 ## Dataset utilizado
 
 
