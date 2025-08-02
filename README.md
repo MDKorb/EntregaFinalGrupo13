@@ -20,12 +20,10 @@ Objetivo específico 2: determinar si existe relación, y cómo se comporta, en
 
 
 
-## Integrantes
+## Alumna
 
 
-Grupo Nº 13  
-
-Natalia Machetti y Melisa Korb
+Melisa Denisse Korb
 
 
 ## Dataset utilizado
